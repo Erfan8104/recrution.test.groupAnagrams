@@ -1,0 +1,4 @@
+computer 1
+hello 1
+programming 1
+world 1

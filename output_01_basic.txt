@@ -1,0 +1,4 @@
+ate 5
+bat 1
+enlist 3
+nat 2

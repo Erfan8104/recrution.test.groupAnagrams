@@ -1,0 +1,5 @@
+acre 3
+bare 2
+evil 4
+notes 4
+opts 6

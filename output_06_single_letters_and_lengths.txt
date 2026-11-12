@@ -1,0 +1,5 @@
+a 2
+ab 2
+abc 3
+abcd 2
+b 1
